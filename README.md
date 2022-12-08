@@ -14,7 +14,7 @@ The Challenge thirteen assignment tasked us with creating an e-commerce backend 
 
 ## Resources
 
-- [LIVE SITE]()
+- [Video Walkthrough](https://youtu.be/TgWrFcBparI)
 
 - [Repository](https://github.com/Jklaver91/E-Commerce-Backend-13)
 
